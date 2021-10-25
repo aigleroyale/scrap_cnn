@@ -9,6 +9,7 @@
   - [Modèle GAN et DCGAN](#Modèle-GAN-et-DCGAN)
   - [Optimisation Modèle Full Deep Learning(Renforcement Learning)](#Optimisation-Modèle-Full-Deep-Learning--(Renforcement-Learning-))
   - [Supervising Tensorboard cas Modèle CNN](#Supervising-Tensorboard-cas-Modèle-CNN)
+  - [Conclusion](#Conclusion)
 #### Objectif du projet
 L'objectif de ce projet est d'executer quelques modèles de deep learning après avoir scraper des données.
 
