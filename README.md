@@ -1,5 +1,6 @@
 # PROJET DE WEB SCRAPING ET DEEP LEARNING
 ## DETCECTION DE PLAQURE D'IMMATRICULATION
+![Cchéma global du projet](./img/img1.jpg)
 ### SOMMAIRE
   - [Objectif du projet](#Objectif-du-projet)
   - [Méthodologie appliquée](#Méthodologie-appliquée)
