@@ -3,7 +3,7 @@
 ### SOMMAIRE
   - [Objectif du projet](#Objectif-du-projet)
   - [Méthodologie appliquée](#Méthodologie-appliquée)
-  #### Full Deep Learning
+  ### Full Deep Learning
   - [Modèle CNN](#Modèle-CNN)
   - [Modèle AutoEncodeur Apprentissage semi supervisé](#Modèle-AutoEncodeur-Apprentissage-semi-supervisé)
   - [Modèle GAN et DCGAN](#Modèle-GAN-et-DCGAN)
