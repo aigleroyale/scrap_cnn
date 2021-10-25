@@ -10,6 +10,11 @@
   - [Optimisation Modèle Full Deep Learning(Renforcement Learning)](#Optimisation-Modèle-Full-Deep-Learning--(Renforcement-Learning-))
   - [Supervising Tensorboard cas Modèle CNN](#Supervising-Tensorboard-cas-Modèle-CNN)
 #### Objectif du projet
+L'objectif de ce projet est d'executer quelques modèles de deep learning après avoir scraper des données.
+
+Les données scraper contiennent des informations sur des images des voitures de plusieurs pays montrant leur plaque d'immatriculation et les images elles mêmes.
+
+
 #### Méthodologie appliquée
 #### Modèle CNN
 #### Modèle AutoEncodeur (Apprentissage semi-supervisé)
