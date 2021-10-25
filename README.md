@@ -2,10 +2,3 @@
 ## DETCECTION DE PLAQURE D'IMMATRICULATION
 ### SOMMAIRE
   - [Objectif du projet](#Objectif du projet)
-  - []
-- []
-- []
-- []d
-- []
-- []
-drss
