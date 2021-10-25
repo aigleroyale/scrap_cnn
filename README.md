@@ -22,4 +22,5 @@ Les données scraper contiennent des informations sur des images des voitures de
 #### Modèle GAN et DCGAN
 #### Optimisation Modèle Full Deep Learning(Renforcement Learning)
 #### Supervising Tensorboard cas Modèle CNN
+#### Conclusion
 
