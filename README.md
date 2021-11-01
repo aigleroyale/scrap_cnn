@@ -110,7 +110,7 @@ Technos & Framework
 | Langage  | Python 3.9  |
 | Crawling & Scraping  | Scrapy  |
 | Gestion des CSV | Pandas |
-| Deep learning | Keras, Torch, Tensorflow |
+| Deep learning | Keras, PyTorch, Tensorflow |
 
 
 ## Difficultés 
