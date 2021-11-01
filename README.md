@@ -23,7 +23,7 @@ Les données scraper contiennent des informations sur des images des voitures de
 
 `data_images` : contient les images utilisées pour implementer les modèles
 
-`plaquette` : contient le dossier où se trouve les scripts du scraping effectuer sur `scrapy`
+`plaquette` : contient le dossier où se trouve les scripts du scraping effectuer sur **scrapy**
 
 `script` : contient les dossiers où se trouvent les Jupyter Notebook des différents modèles
 
