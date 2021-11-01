@@ -54,7 +54,7 @@ Imposez une version specifique à votre agent afin de le faire passer pour un vr
 Lancement du spider
 `$ scrapy runspider radar.py`
 
-`** NB ** :` Le scraping n'aurait pu être possible sans le site `platesmania.com` Pour préserver la stabilité du site, ne crawler/scraper qu'avec un nombre de requête et parallèles raisonable
+`**NB** :` Le scraping n'aurait pu être possible sans le site `platesmania.com` Pour préserver la stabilité du site, ne crawler/scraper qu'avec un nombre de requête et parallèles raisonable
 
 Pour executez les modèles:
 
