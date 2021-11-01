@@ -19,6 +19,38 @@ L'objectif de ce projet est d'executer quelques modèles de deep learning après
 
 Les données scraper contiennent des informations sur des images des voitures de plusieurs pays montrant leur plaque d'immatriculation et les images elles mêmes.
 
+`data_csv`  : contient les données scraper dans un format csv
+`data_images` : contient les images utilisées pour implementer les modèles
+`plaquette` : contient le dossier où se trouve les scripts du scraping effectuer sur `scrapy`
+`script` : contient les dossiers où se trouvent les Jupyter Notebook des différents modèles
+
+Pour le projet Scrapy:
+
+Ce spider permet de récuperer des photos de voitures avec des informations supplementaires:
+
+Voici les données que l'on récupère :
+| Type  | Nom |
+| ------------- | ------------- |
+| heure  | Heure de l'ajout de la voiture sur le site distant  |
+| date | Date de l'ajout de la voiture sur le site distant  |
+| voitureMarque | Marque de la voiture  |
+| voitureModele | Modèle de la voiture  |
+| imgGlobalName | Nom de l'image sauvegardé de la voiture globale  |
+| imgPlaqueName | Nom de l'image sauvegardé de lla plaque d'immatriculation  |
+| plateNumber | Numéro de la plaque  |
+
+Pensez à régler dans les attributs de la classe du spider :
+- Un fichier CSV contenant l'ensemble des attributs précédents
+- Un dossier de destination pour les images des plaques
+- Un dossier de destination pour les images des voitures
+- Une fourchette d'interval à donner à notre spider concernant les pages à visiter
+
+**Important :**
+Imposez une version specifique à votre agent afin de le faire passer pour un vrai utilisateur et non un bot, permettant de bypass les erreurs 403 FORBIDDEN.
+
+Lancement du spider
+`$ scrapy runspider radar.py`
+
 
 #### Méthodologie appliquée
 
