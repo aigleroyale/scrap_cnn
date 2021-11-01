@@ -49,11 +49,7 @@ Notre modèle Modeling-learnng c'est un modèle qui n'existe pas dans la réalit
 Qu’est-ce qui se passe ? Si N = nombres d’images augmentent. Avec N0 = Nombre d'images initialement = 5000 images.
 NB: Le but est de trouver le model qui arrive à prédire correctement plus d’images que les autres. 
 
-Nous allons aussi faire une différence absolue et rélative entre les modèles afin d'identifier le modèle qui prédire plus d'images que les autres en comparant la distribution aléatoire et l'algorithme de THOMPSON SAMPLY .
-
-![image](https://user-images.githubusercontent.com/77580993/139585758-a871ba06-74c8-4fb6-8e25-91cb59d6c908.png)
-
-![image](https://user-images.githubusercontent.com/77580993/139585705-95feecda-8f53-480c-b2d5-32a2d3ba4e96.png)
+Nous allons aussi faire une différence absolue et rélative entre les modèles afin d'identifier le modèle qui prédire plus d'images que les autres en comparant la distribution aléatoire et `l'algorithme de THOMPSON SAMPLY` .
 
 
 #### Supervising Tensorboard cas Modèle CNN
