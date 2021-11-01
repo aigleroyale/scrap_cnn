@@ -11,6 +11,7 @@
   - [Optimisation Modèle Full Deep Learning Renforcement Learning](#Optimisation-Modèle-Full-Deep-Learning-Renforcement-Learning)
   - [Supervising Tensorboard cas Modèle CNN](#Supervising-Tensorboard-cas-Modèle-CNN)
   - [Conclusion](#Conclusion)
+  - [Difficultés](#Difficultés)
 
 #### Objectif du projet
 
@@ -74,13 +75,12 @@ De ce fait, lorsqu'on mettait une limite de 100 pages , le script continuait et 
 
 ### Pour la partie Deep Learning :
 
-Problème rencontrer : lorsuq'on a voulu transformer notre variable prédict y en catégorie :
+* Problème rencontrer : lorsuq'on a voulu transformer notre variable prédict y en catégorie :
 
 il fallait d'abord labeliser la variable y en convertisant la matrice name belgique en 1 et ainsi que pour les autres pays. Ensuite il fallait fit(FITER) les variables qui étaient en l'interieur de sorte que nous puissions les transformer en matrice résolution stack overflow.
  `ValueError: invalid literal for int() with base 10: <s>.`
 
-# Limite :
-Optimisation Modèle Full Deep Learning Renforcement Learning : Nous rappellons tout de même que la selection du meilleur modèle n'est possible que si les paramètres permettant d'obtenir le taux de conversion pour l'accuracy reste le même ceteris paribus(epoch,verbose, optimiser,...)
+* Optimisation Modèle Full Deep Learning Renforcement Learning : Nous rappellons tout de même que la selection du meilleur modèle n'est possible que si les paramètres permettant d'obtenir le taux de conversion pour l'accuracy reste le même ceteris paribus(epoch,verbose, optimiser,...)
   
 
 
