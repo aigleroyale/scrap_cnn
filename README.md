@@ -54,6 +54,10 @@ Imposez une version specifique à votre agent afin de le faire passer pour un vr
 Lancement du spider
 `$ scrapy runspider radar.py`
 
+Pour executez les modèles:
+
+Pensez à télécharger les notebooks et à signifier le chemin d'accès des dossiers des inputs
+
 
 #### Méthodologie appliquée
 
