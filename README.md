@@ -66,7 +66,7 @@ DEMONSTRATION pendant le cours.
 
 
 
-## DIFFULCUTES 
+## Difficultés 
 
 ### Pour la PARTIE SCRAPY:
 
