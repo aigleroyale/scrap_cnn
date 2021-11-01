@@ -102,7 +102,16 @@ La partie visualisation graphique ne sera pas introduit pour faute de temps mais
 DEMONSTRATION pendant le cours. 
 
 ## Conclusion
+La réalisation de ce projet nous a permis de faire beaucoup de recherche et de mieux comprendre le monde de la programmation et du machine learning.
 
+Technos & Framework
+| Type  | Nom |
+| ------------- | ------------- |
+| Langage  | Python 3.9  |
+| Crawling & Scraping  | Scrapy  |
+| Gestion des CSV | Pandas |
+
+Avec l'aide de **`Keras`**, **`Torch`**, et **`Tensorflow`**
 
 
 ## Difficultés 
