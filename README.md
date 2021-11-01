@@ -20,8 +20,11 @@ L'objectif de ce projet est d'executer quelques modèles de deep learning après
 Les données scraper contiennent des informations sur des images des voitures de plusieurs pays montrant leur plaque d'immatriculation et les images elles mêmes.
 
 `data_csv`  : contient les données scraper dans un format csv
+
 `data_images` : contient les images utilisées pour implementer les modèles
+
 `plaquette` : contient le dossier où se trouve les scripts du scraping effectuer sur `scrapy`
+
 `script` : contient les dossiers où se trouvent les Jupyter Notebook des différents modèles
 
 Pour le projet Scrapy:
