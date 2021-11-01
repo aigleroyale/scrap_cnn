@@ -27,7 +27,7 @@ Les données scraper contiennent des informations sur des images des voitures de
 
 `script` : contient les dossiers où se trouvent les Jupyter Notebook des différents modèles
 
-Pour le projet Scrapy:
+* Pour le projet Scrapy:
 
 Ce spider permet de récuperer des photos de voitures avec des informations supplementaires:
 
@@ -58,7 +58,7 @@ Lancement du spider
 
 Pour préserver la stabilité du site, ne crawler/scraper qu'avec un nombre de requête et parallèles raisonable
 
-Pour executez les modèles:
+* Pour executez les modèles:
 
 Pensez à télécharger les notebooks et à signifier le chemin d'accès des dossiers des inputs
 
