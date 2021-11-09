@@ -90,7 +90,8 @@ class RadarSpider(scrapy.Spider):
 
                 
                 opener=urllib.request.build_opener()
-                opener.addheaders=[('User-Agent','Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:92.0) Gecko/20100101 Firefox/92.0')]
+            #Veuillez entrer votre User-Agent en raison de sécurité :
+                opener.addheaders=[('User-Agent','Mozilla/_._ (.....; Intel MARQUE DE LA MACHINE  _._; rv:_._) Gecko/.... Firefox/...')]
                 urllib.request.install_opener(opener)
 
                 urllib.request.urlretrieve(urlImgGlobal, destinationFolderImgGlobal)
